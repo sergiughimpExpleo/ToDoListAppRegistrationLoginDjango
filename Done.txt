@@ -1,0 +1,29 @@
+-> 38:00
+1. Project Setup
+    1. Create "todo_list" Project
+    2. Create "base" app
+    3. Link the path to settings.py (Templates, Installed Apps) ->Let's the Django know about the app that was created
+    4. Create a "urls.py" patterns inside teh app
+    5. include the path for the "urls.py" from the app to the project
+2. Setting up our models and database
+    1. create model Task that contains: user (create one to many relationship), title, description, complete, created
+    2. register the model with admin panel
+    3. Create some tasks in the database
+3. Task List Page
+    1. create the TaskList view
+    2. create the HTML page to the List Page (page with the tasks)
+4. Detail Page
+    1. create the TaskDetail view
+    2. create the HTML page to the Detail Page
+    3. set in the urls.py TaskDetail with the id
+5. Create Item
+    1. create the TaskCreate view
+    2. create the HTML page to the Create Page
+6. Update Item
+7. Delete Item
+8. Login/Logout
+9. Restricted Pages
+10. User Specific Data
+11. User Registration
+12. Search
+13. Styling our pages
