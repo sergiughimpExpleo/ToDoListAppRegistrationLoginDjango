@@ -16,14 +16,38 @@
     1. create the TaskDetail view
     2. create the HTML page to the Detail Page
     3. set in the urls.py TaskDetail with the id
-5. Create Item
++ 5. Create Item
     1. create the TaskCreate view
     2. create the HTML page to the Create Page
-6. Update Item
-7. Delete Item
-8. Login/Logout
-9. Restricted Pages
-10. User Specific Data
-11. User Registration
-12. Search
++ 6. Update Item
+    1.
+    2.
+    3.
++ 7. Delete Item
+    1.
+    2.
+    3.
++ 8. Login/Logout
+    1.
+    2.
+    3.
+--> 58:00
++ 9. Restricted Pages
+    1.
+    2.
+    3.
++ 10. User Specific Data
+    1.
+    2.
+    3.
++ 11. User Registration
+    1.
+    2.
+    3.
++ 12. Search
+    1.
+    2.
+    3.
+--> 1:37:32
+
 13. Styling our pages
